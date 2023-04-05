@@ -1,5 +1,5 @@
 # 2022 Airbnb Listing Analysis
-https://public.tableau.com/app/profile/bryce.mandap/viz/AirbnbRevenueAnalysis2022/Dashboard1
+You can view the full report here: https://public.tableau.com/app/profile/bryce.mandap/viz/AirbnbRevenueAnalysis2022/Dashboard1
 
 ## Background
 The primary objective of this project was to enhance my proficiency in creating visually appealing UI designs, while also incorporating prescriptive analytics techniques. Airbnb is widely recognized as the industry leader in the lodging domain, and given the immense popularity of San Diego as a sought-after tourist destination in Southern California, investing in property within the region can prove to be a lucrative opportunity.
