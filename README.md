@@ -15,9 +15,6 @@ This project includes 4 significant sections to help investors gain insight into
 - This allows the audience to easily identify the most significant metrics and key performance indicators at a single glance. 
     - KPI's include: Number of Listings, Avg. Listing Price, Avg. Revenue, Avg. Review Score, Reviews per Month
     - These KPI Cards are also dynamic to the applied filters
-
-![image](https://user-images.githubusercontent.com/129364286/230002699-290fbafa-a419-4159-8dce-b008cbd1a478.png)
-
     
 ## Geographical Clustering Map
 - Allows the user to identify groups/clusters that are most populated by other Airbnb Hosts
@@ -28,6 +25,8 @@ This project includes 4 significant sections to help investors gain insight into
 - Identifies which neighboorhoods have had the most sold listings 
 - This can also show which neighboorhoods are most sold depending on the different quartiles of revenue
 
+![image](https://user-images.githubusercontent.com/129364286/230003488-845dac7a-8ae9-4462-9f93-12a63e2a3204.png)
+
 ## Dynamic Corelation Scatter Plot
 - Enables the user to swap different Independent variables to compare the correlation amongst a variety of features
     - e.g) Can visualize the correlation between the Review Rating and Expected Revenue
@@ -36,5 +35,10 @@ This project includes 4 significant sections to help investors gain insight into
 ![image](https://user-images.githubusercontent.com/129364286/230002811-ad58dbaf-31b6-4ff2-bd02-e9f665971780.png)
 
 
- 
 ## Insights Found and Suggestions 
+- The property owners within the 75th Percentile (or top 25%) based on revenue, have an average listing price of 438$ with an average of 3.17 review per month
+    - In this scenario, reviews can be viewed as guaranteed bookings, therefore, these property book their properties 3 times a month
+- Parkwest neighborhood has the highest avg revenue ($354,785), with Rosevile being second ($270,624)
+- The top 5 neighboords with the most sold listings within the top 25% of earners are: Mission Bay, Ocean Beach, Pacific Beach, North Hills, and  La Jolla
+- Number of Beds, Price, and Number of Accomodations have a positive correlation with Expected Revenue
+    - Review/Rating however has the lowest correlation
